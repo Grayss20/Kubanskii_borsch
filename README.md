@@ -19,10 +19,10 @@ My cooking routine for a 5 liters bowl
 <img src="photo_5_2024-08-27_19-19-32.jpg" alt="Description" width="400" height="500">
 2. After 5-10 minutes of boiling a gray foam usually appears. It's normal and others don't care, but I spend 5 minutes removing it with a spoon. After doing this, put the spoon somewhere aside. You will need it later. <br>
 <img src="photo_4_2024-08-27_19-19-32.jpg" alt="Description" width="400" height="500">
-3. Add bay leaf (5-7 leaves) and whole pepper (5-10 seeds). I don't feel their taste at the end to be honest, but this is a kind of tradition. Reduce heat to minimum, cover and let it boil. If there is meat only, then 1-2 hours is enough. With bones, you may boil for 3-7 hours to get the best taste (All that time counts toward cooking time! Despite you may go another room and do some fun (let's say math or something similar)=)
-4. Do not switch off the heat. It should be kept on until it is ready.
+3. Add bay leaf (5-7 leaves) and whole pepper (5-10 seeds). I don't feel their taste at the end to be honest, but this is a kind of tradition. Reduce heat to minimum, cover and let it boil. If there is meat only, then 1-2 hours is enough. With bones, you may boil for 3-7 hours to get the best taste (All that time counts toward cooking time! Despite you may go another room and do some fun (let's say math or something similar)=)<br>
+4. Do not switch off the heat. It should be kept on until it is ready.<br>
 
-At this stage it could be worthwhile to eat something as well. It is still a long way until borsch is ready.
+At this stage it could be worthwhile to eat something as well. It is still a long way until borsch is ready.<br>
 
 ## Sautéed vegetable base (Zazharka)
 1. You will spend another 0.75-2.5 hours to prepare it depending on your skills. Double check you have all vegetables and tomato paste. <br>
@@ -48,9 +48,9 @@ At this stage it could be worthwhile to eat something as well. It is still a lon
 <img src="photo_8_2024-08-27_19-19-32.jpg" alt="Description" width="400" height="500">
 6. Add the meat. Stir gently. <br>
 <img src="photo_3_2024-08-27_19-19-32.jpg" alt="Description" width="400" height="500">
-7. The last important step. Most likely it is not salted enough. Try to taste the liquid. Is it good as a final taste? You may add salt if needed. Extra pepper, salt or other spices may be added now or later during the serving to give the option to personalize the amount.
-8. Turn the heat off.
-9. Serve with Sour cream/Crème fraîche and bread =)
+7. The last important step. Most likely it is not salted enough. Try to taste the liquid. Is it good as a final taste? You may add salt if needed. Extra pepper, salt or other spices may be added now or later during the serving to give the option to personalize the amount.<br>
+8. Turn the heat off.<br>
+9. Serve with Sour cream/Crème fraîche and bread =)<br>
 
 ### Keep an eye on the development of domestic robotic manipulators. We need to automate this %)
 
